@@ -10,6 +10,7 @@
 * [Examples](#examples)
 
 ## Resources
+* [Does your product actually need dark mode?(https://www.commandbar.com/blog/dark-mode-considerations)
 * [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
 * [How to design delightful dark themes](https://blog.superhuman.com/how-to-design-delightful-dark-themes-7b3da644ff1f)
 * [The Ultimate Guide on Designing a Dark Theme for your Android app](https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637)
