@@ -24,6 +24,7 @@
 * [Manage light and dark themes from design to code](https://specifyapp.com/guides/design-data-platforms-101/08-use-cases#managing-multiple-color-themes)
 
 ## tooling
+* [Theemo](https://github.com/theemo-tokens/theemo) — Manage your style references and update them automatically
 * [Themer](https://www.figma.com/community/plugin/731176732337510831/Themer) — a Figma plugin that helps you quickly swap themes from your styles.
 
 ## examples
