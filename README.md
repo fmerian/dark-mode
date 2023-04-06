@@ -10,6 +10,8 @@
 * [Tooling](#tooling)
 * [Examples](#examples)
 
+---
+
 ## resources
 * [Does your product actually need dark mode?](https://www.commandbar.com/blog/dark-mode-considerations)
 * [Dark theme developer survey results](https://medium.com/dev-channel/let-there-be-darkness-maybe-9facd9c3023d)
@@ -32,7 +34,12 @@
 ## examples
 * [Linear](https://linear.app/)
 * [Liveblocks](https://liveblocks.io/)
-* [Raycast](https://raycast.com/)
 * [Railway](https://railway.app/)
+* [Raycast](https://raycast.com/)
 * [Specify](https://specifyapp.com/)
 * [Trunk](https://trunk.io/)
+
+---
+
+## contributing
+See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-dark-mode/blob/main/CONTRIBUTING.md)
