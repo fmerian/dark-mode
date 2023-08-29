@@ -5,6 +5,9 @@
 >
 > — Teresa Man, Senior Design Manager at Superhuman
 
+[Want to contribute?
+](https://github.com/fmerian/dark-mode/blob/main/README.md#contributing)
+
 ## contents
 * [Resources](#resources)
 * [Tooling](#tooling)
