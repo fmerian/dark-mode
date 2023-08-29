@@ -24,6 +24,7 @@
 * [How we created a dark UI for GitLab's Web IDE](https://about.gitlab.com/blog/2020/05/20/creating-a-dark-ui-for-gitlabs-web-ide/)
 * [The complete guide to the dark mode toggle](https://ryanfeigenbaum.com/dark-mode/)
 * [Manage light and dark themes from design to code](https://specifyapp.com/guides/design-data-platforms-101/08-use-cases#managing-multiple-color-themes)
+* [How users think about dark mode and issues to avoid](https://www.nngroup.com/articles/dark-mode-users-issues/)
 
 ## tooling
 * [Reshaped](https://reshaped.so/) -- Ready-to-use design system for React.
