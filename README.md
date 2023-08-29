@@ -43,4 +43,20 @@
 ---
 
 ## contributing
-See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-dark-mode/blob/main/CONTRIBUTING.md)
+
+I welcome every contribution. To do so, please open a Pull Request (PR). 
+
+I still do want to keep the quality of the list, so I may not merge all PRs.
+
+### next steps
+
+* [ ] Add one link per PR
+  * Make sure the PR title is in the format of `Add resource-name`
+  * Write down the reason why the resource is awesome, a TL,DR version
+* [ ] Add the link: `* [resource-name](https://example.com/)`
+  * Keep titles in lowercase
+* [ ] Check your spelling and grammar
+* [ ] Remove any trailing whitespace
+* [ ] Description and content must be in English
+
+**Thanks for making this list more awesome!**
